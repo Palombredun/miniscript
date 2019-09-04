@@ -11,9 +11,3 @@ def bubble_sort(array):
 print(array)
 bubble_sort(array)
 print(array)
-
-
-tri fusion :
-import random
-
-array = [random.randint(0,10) for i in range(10)]

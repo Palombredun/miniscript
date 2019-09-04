@@ -1,0 +1,1 @@
+Toutes les fonctions sont supposées continues et passant par 0 en un seul point sur l'intervalle de recherche.
